@@ -50,16 +50,6 @@ Aunque todavía no tengo experiencia laboral, sí cuento con experiencia prácti
 
 ---
 
-## 📂 Contenido del repositorio
-
-- Presentación en Canva  
-- Tarjeta de presentación  
-- Información sobre mis habilidades  
-- Experiencia académica  
-- Enlace a mis proyectos (si añado más en el futuro)
-
----
-
 ## 🎯 Objetivo Profesional
 
 Seguir formándome y desarrollarme como técnico informático, especialmente en soporte técnico, mantenimiento de equipos y redes. Mi objetivo es aplicar mis conocimientos en un entorno real y crecer dentro del sector TIC.
