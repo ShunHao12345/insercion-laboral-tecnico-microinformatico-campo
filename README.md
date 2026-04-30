@@ -3,7 +3,7 @@
 Este repositorio contiene mi proyecto de Inserción Laboral para Grado Medio en Sistemas Microinformáticos y Redes (SMR).
 
 ## 👨‍💻 Sobre mí
-Soy estudiante de 1º de SMR y estoy formándome para trabajar en el sector de la informática. Me interesa especialmente el soporte técnico, el mantenimiento de equipos y las redes. Me considero una persona responsable, con ganas de aprender y mejorar cada día.
+Técnico en Sistemas Microinformáticos y Redes con formación actualizada. Me interesa especialmente el soporte técnico, el mantenimiento de equipos y las redes. Me considero una persona responsable, con ganas de aprender y mejorar cada día.
 
 ---
 
